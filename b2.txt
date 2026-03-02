@@ -1,1 +1,2 @@
 Content for b2.txt from first branch
+New content for b2.txt from first
