@@ -1,5 +1,8 @@
 
+
 New Content for a1.txt from master branch
 New Content for a1.txt from first branch
+
+New Content for a1.txt from second branch
 
 
