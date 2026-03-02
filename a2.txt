@@ -1,2 +1,2 @@
-Content for a2.txt from master branch
+New Content for a2.txt from second branch
 
